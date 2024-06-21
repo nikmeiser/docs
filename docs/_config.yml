@@ -1,8 +1,6 @@
 title: nikmeiser docs
 description: docs and stuff
 remote-theme: just-the-docs/just-the-docs
-just_the_docs:
-  show_sidebar: true
 
 url: https://nikmeiser.github.io
 
