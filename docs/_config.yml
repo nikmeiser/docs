@@ -3,13 +3,10 @@ description: docs and stuff
 remote-theme: just-the-docs/just-the-docs
 
 url: https://nikmeiser.github.io
+show_sidebar: true
 
-defaults:
-  -
-    scope:
-      path:""
-    values:
-      layout: "default"
+plugins:
+ - jekyll-feed
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
