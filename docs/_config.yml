@@ -3,4 +3,5 @@ description: docs and stuff
 remote-theme: just-the-docs/just-the-docs
 
 url: https://nikmeiser.github.io
-
+layout: default
+nav_enabled: true
