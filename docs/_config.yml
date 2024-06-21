@@ -1,12 +1,10 @@
-title: nikmeiser docs
-description: docs and stuff
-remote-theme: just-the-docs/just-the-docs
-
-url: https://nikmeiser.github.io
+title: "nikmeiser's docs"
+description: "docs and stuff"
+theme: just-the-docs
+url: "https://nikmeiser.github.io"
+baseurl: "/docs"
 show_sidebar: true
 
-plugins:
- - jekyll-feed
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
